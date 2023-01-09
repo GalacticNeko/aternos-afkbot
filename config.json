@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"AceOfFades.aternos.me:40115",
+	"port": "40115",
+	"name": "Project_GitHub"
 }
